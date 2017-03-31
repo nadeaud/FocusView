@@ -34,7 +34,8 @@ public class DSFSelectionProxy implements IDSFSelectionProxy {
 					return;
 				}
 			},
-			selections);
+			selections, null);
+			
 	}
 
 }
